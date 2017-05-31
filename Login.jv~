@@ -1,0 +1,18 @@
+//Source file: D:\\KULIAH\\Semester 6\\DesignModel\\Login.java
+
+package DesignModel;
+
+
+public class Login 
+{
+   private int Username;
+   private int Password;
+   
+   /**
+   @roseuid 592E514601AB
+    */
+   public Login() 
+   {
+    
+   }
+}

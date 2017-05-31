@@ -1,0 +1,19 @@
+//Source file: D:\\KULIAH\\Semester 6\\DesignModel\\Registrasi.java
+
+package DesignModel;
+
+
+public class Registrasi 
+{
+   private int Username;
+   private int Password;
+   private int Email;
+   
+   /**
+   @roseuid 592E5176007B
+    */
+   public Registrasi() 
+   {
+    
+   }
+}
